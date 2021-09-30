@@ -1,7 +1,7 @@
-# Livro de Receitas :coffee 
+# Livro de Receitas ☕ 
 
-  Olá, bem vindo ao meu livro de receitas :wave 
+  Olá ✋, bem vindo ao meu livro de receitas 
   
-  - Strogonoff de Frango :chicken
+  - Strogonoff de Frango 🐔
 
 
